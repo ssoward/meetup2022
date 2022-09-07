@@ -1,9 +1,9 @@
 img {
-  border:2px solid #555 !important;
-  box-shadow: 10px 10px 5px #555;
-  -moz-box-shadow: 10px 10px 5px #555;
-  -webkit-box-shadow: 10px 10px 5px #555;
-  -khtml-box-shadow: 10px 10px 5px #555;
+  border:1px solid #555 !important;
+  box-shadow: 5px 5px 1px #555;
+  -moz-box-shadow: 5px 5px 5px #555;
+  -webkit-box-shadow: 5px 5px 5px #555;
+  -khtml-box-shadow: 5px 5px 5px #555;
 }
 .bottom {
   padding-top: 50%;
