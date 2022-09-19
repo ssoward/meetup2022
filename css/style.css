@@ -1,10 +1,31 @@
-img {
-  border:1px solid #555 !important;
-  box-shadow: 5px 5px 1px #555;
-  -moz-box-shadow: 5px 5px 5px #555;
-  -webkit-box-shadow: 5px 5px 5px #555;
-  -khtml-box-shadow: 5px 5px 5px #555;
+
+.gn {
+  color: #77bc1f !important;
 }
+h3 {
+  font-size: 60px !important;
+}
+.qbox {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+img {
+  -khtml-box-shadow: 5px 5px 5px #69747d;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px 4px #69747d;
+  -webkit-box-shadow: 5px 5px 5px #69747d;
+}
+
+#imggg {
+  box-shadow: 2px 2px 3px 4px  rgba(7, 120, 242, .9);
+  border:1px solid #77bc1f !important;
+  box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+  -moz-box-shadow: 5px 5px 5px #77bc1f;
+  -webkit-box-shadow: 5px 5px 5px #77bc1f;
+  -khtml-box-shadow: 5px 5px 5px #77bc1f;
+}
+
 .bottom {
   padding-top: 50%;
 }
